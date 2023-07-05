@@ -1,0 +1,38 @@
+body {
+  /* width: 100vw; */
+  height: 130vh;
+  background-image: url(./assets/bg-desktop.jpg);
+  background-repeat: no-repeat;
+  background-size:  cover;
+  background-position: center center;
+}
+
+.container {
+  width: auto;
+  background:#ddd ;
+  border: 1px solid #adabab;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 2px auto 0px;
+}
+
+.profile img {
+  width: 112px;
+  border-radius: 8px;
+}
+
+.profile {
+  display: flex;
+}
+
+ul {
+  list-style: none;
+
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  
+  padding: 10px;
+}
