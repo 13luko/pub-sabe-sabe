@@ -8,6 +8,7 @@ body {
 }
 
 .container {
+  height: 112px;
   width: auto;
   background:#ddd ;
   border: 1px solid #adabab;
@@ -17,6 +18,7 @@ body {
 }
 
 .profile img {
+  height: 112px;
   width: 112px;
   border-radius: 8px;
 }
