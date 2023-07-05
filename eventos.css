@@ -1,0 +1,36 @@
+/*social links*/
+#social-links {
+  display: flex;
+  
+  justify-content: center;
+
+  padding: 24px 0;
+
+  font-size: 24px;
+}
+#social-links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  transition: background 0.2s;
+  border-radius: 50%;
+  color: white;
+}
+body {
+  width: 100vw auto;
+  height: 100vh;
+  background-image: url(./eventos/fdbe199c3791c0272e181fcfd9223865.jpg);
+  background-repeat: no-repeat;
+  background-size:  cover;
+  background-position: center center;
+}
+
+.container {
+  width: auto;
+  background:#ddd ;
+  border: 1px solid #adabab;
+  border-radius: 8px;
+  max-width: 400px;
+  margin: 2px auto 0px;
+}
